@@ -1,12 +1,11 @@
-# Undergraduate_Project_CNN_Accelerator
+# 학부 프로젝트
 
-University undergraduate project 
 CNN Accelerator & Sign Language recognizer
 
-Source Code
+Source Code List
 * Lenet
 * Weight_rom
 * Bias_rom
 * text_lcd
 
-한글도 되나ㅇㅇㅇㅇㅇ
+
