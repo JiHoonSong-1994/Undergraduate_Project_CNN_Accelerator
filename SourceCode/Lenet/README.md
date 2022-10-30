@@ -11,3 +11,4 @@ Lenet CNN 모델 구현 코드
 * iterator_conv.sv
 * iterator_pooling.sv
 
+src_rom.v (input data buffer) : 라즈베리파이에서 GPIO를 통해 FPGA로 Input 데이터 전송
