@@ -4,5 +4,6 @@ University undergraduate project
 CNN Accelerator & Sign Language recognizer
 
 Source Code
-\n
-adf
+* Lenet
+* Weight
+
