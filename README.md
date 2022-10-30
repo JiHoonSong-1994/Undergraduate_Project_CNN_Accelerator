@@ -5,5 +5,8 @@ CNN Accelerator & Sign Language recognizer
 
 Source Code
 * Lenet
-* Weight
+* Weight_rom
+* Bias_rom
+* text_lcd
 
+한글도 되나ㅇㅇㅇㅇㅇ
