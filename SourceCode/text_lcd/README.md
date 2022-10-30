@@ -1,1 +1,1 @@
-# Display CNN Result to text LCD
+# Display CNN Result on text LCD
